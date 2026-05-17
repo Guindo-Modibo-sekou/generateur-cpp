@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1779038096 source:c:\users\cissegsm\documents\guindo generateur\findeprojet\main.cpp
+	<iostream>
+	<vector>
+	"declaration.h"
+	<ctime>
+	<cstdlib>
+	<fstream>
+
+1778797159 source:c:\users\cissegsm\documents\guindo generateur\findeprojet\evaluation de la force.cpp
+	<iostream>
+	<string>
+	<cctype>
+
+1778906972 source:c:\users\cissegsm\documents\guindo generateur\findeprojet\les fonctions .cpp
+	"declaration.h"
+	<cstdlib>
+	<algorithm>
+	<ctime>
+	<cctype>
+
+1778801816 c:\users\cissegsm\documents\guindo generateur\findeprojet\declaration.h
+	<string>
+	<vector>
+
+1778801634 source:c:\users\cissegsm\documents\guindo generateur\findeprojet\originals.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+	<vector>
+	<algorithm>
+	<cctype>
+
